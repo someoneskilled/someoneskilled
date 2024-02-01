@@ -1,5 +1,5 @@
 Introduction
-👋 Hi, I’m Priyanshu, a passionate learner and developer of AI/ML, Web Dev, and MERN projects.
+👋 Hi, I’m Priyanshu, a passionate developer and learner of AI/ML, Web Dev, and MERN projects.
 
 Skills
 🌱 I’m currently learning multiple Python libraries, such as TensorFlow, PyTorch, Scikit-learn, etc.
