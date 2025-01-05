@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Agarwal</h1>
-# 💫 About Me:
- 🔭 I’m currently working on **various AI projects**<br><br>📝 I regularly update on [https://www.linkedin.com/in/khemkapriyanshu/](https://www.linkedin.com/in/khemkapriyanshu/)<br><br>📫 How to reach me **info.priyanshukhemka@gmail.com**<br><br>📄 Know about my experiences [https://drive.google.com/file/d/1SR1N2DpdgDbmeBZdN3L3YjxK0KntSIJC/view?usp=sharing](https://drive.google.com/file/d/1SR1N2DpdgDbmeBZdN3L3YjxK0KntSIJC/view?usp=sharing)<br><br>⚡ Fun fact **I am not a nerd**
-
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/priyanskhemaka) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khemkapriyanshu) 
