@@ -20,9 +20,9 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/someoneskilled/count.svg?"  />
-</div>
+</div> -->
 
 ###
 
