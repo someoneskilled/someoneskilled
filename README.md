@@ -35,7 +35,7 @@
 
 
 <br clear="both">
-![Snake animation](https://yourusername.github.io/repositoryname/github-contribution-grid-snake.svg)
+![Snake animation](https://someoneskilled.github.io/someoneskilled/github-contribution-grid-snake.svg)
 
 
 ---
