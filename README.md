@@ -33,8 +33,3 @@
 
 ###
 
-
-<br clear="both">
-![Snake animation](https://someoneskilled.github.io/someoneskilled/github-contribution-grid-snake.svg)
-
----
